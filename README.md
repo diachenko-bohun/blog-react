@@ -6,4 +6,5 @@
 ## start sanity server
 
 1. cd sanity
-2. yarn start(http://localhost:3333)
+2. yarn (if needed)
+3. yarn start(http://localhost:3333)
